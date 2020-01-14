@@ -10,12 +10,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HomeGaeFlexJ11Example" target="1.8" />
+      <module name="HomeGaeFlexJ11Example" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="HomeGaeFlexJ11Example" options="-parameters" />
+      <module name="HomeGaeFlexJ11Example" options="" />
     </option>
   </component>
 </project>

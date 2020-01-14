@@ -1,7 +1,7 @@
-runtime: java
+runtime: java11
+#entrypoint: java -Xmx64m -jar HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar
 env: flex
-env_variables:
-  SPRING_PROFILES_ACTIVE: "gcp"
+service: default
 manual_scaling:
   instances: 1
 handlers:

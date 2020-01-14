@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0edec0-18b4-4563-ae7d-21a50905fb71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/appengine/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/dopierala/HomeGaeFlexJ11Example/controllers/DefaultController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/dopierala/HomeGaeFlexJ11Example/controllers/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-cloud-bootstrap.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -25,6 +21,60 @@
       <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_api_common_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_1_49_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_iam_v1_0_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_credentials_0_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_oauth2_http_0_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_value_auto_value_annotations_1_6_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_1_91_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_32_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_32_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_22_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gcp_autoconfigure_1_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gcp_core_1_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gcp_starter_1_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeGaeFlexJ11Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeGaeFlexJ11Example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/appengine/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/appengine/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/appengine-staging/HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/appengine-staging/HomeGaeFlexJ11Example-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/appengine-staging/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/target/appengine-staging/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/HomeGaeFlexJ11ExampleApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/HomeGaeFlexJ11ExampleApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/controllers/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/controllers/DefaultController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/controllers/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/dopierala/HomeGaeFlexJ11Example/controllers/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.dopierala.HomeGaeFlexJ11Example.HomeGaeFlexJ11ExampleApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.dopierala.HomeGaeFlexJ11Example.HomeGaeFlexJ11ExampleApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/dopierala/HomeGaeFlexJ11Example/HomeGaeFlexJ11ExampleApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/dopierala/HomeGaeFlexJ11Example/HomeGaeFlexJ11ExampleApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
@@ -85,7 +135,7 @@
       <recent name="C:\Users\piotr\IdeaProjects\GoogleCloudHomeTest\GaeFlexJ11Example\src\main\java\pl\dopierala\HomeGaeFlexJ11Example" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.HomeGaeFlexJ11ExampleApplication">
+  <component name="RunManager" selected="Google App Engine Deployment.Google App Engine Deployment">
     <configuration name="HomeGaeFlexJ11ExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="HomeGaeFlexJ11Example" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="pl.dopierala.HomeGaeFlexJ11Example.HomeGaeFlexJ11ExampleApplication" />
@@ -111,7 +161,12 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Google App Engine" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -129,7 +184,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578992252774</updated>
       <workItem from="1578992253989" duration="4093000" />
-      <workItem from="1578996563681" duration="2712000" />
+      <workItem from="1578996563681" duration="5730000" />
+      <workItem from="1579003294439" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="Working java 8">
       <created>1578999273874</created>
@@ -138,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578999273874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working java 8">
+      <created>1578999341374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578999341374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,30 +220,30 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2678" y="466" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578993810935" />
-    <state x="2359" y="111" key="CommitChangelistDialog2" timestamp="1578999273242">
+    <state x="2359" y="111" key="CommitChangelistDialog2" timestamp="1578999340507">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2359" y="111" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999273242" />
+    <state x="2359" y="111" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999340507" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1578997467991">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578997467991" />
-    <state width="1877" height="434" key="GridCell.Tab.0.bottom" timestamp="1578998625245">
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom" timestamp="1579004943167">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="434" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
-    <state width="1877" height="434" key="GridCell.Tab.0.center" timestamp="1578998625245">
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579004943167" />
+    <state width="1877" height="434" key="GridCell.Tab.0.center" timestamp="1579004943166">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="434" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
-    <state width="1877" height="434" key="GridCell.Tab.0.left" timestamp="1578998625245">
+    <state width="1877" height="434" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579004943166" />
+    <state width="1877" height="434" key="GridCell.Tab.0.left" timestamp="1579004943166">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="434" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
-    <state width="1877" height="434" key="GridCell.Tab.0.right" timestamp="1578998625245">
+    <state width="1877" height="434" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579004943166" />
+    <state width="1877" height="434" key="GridCell.Tab.0.right" timestamp="1579004943167">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="434" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
+    <state width="1877" height="434" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579004943167" />
     <state width="1877" height="434" key="GridCell.Tab.1.bottom" timestamp="1578998501397">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -197,14 +260,14 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="434" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998501397" />
-    <state x="2360" y="94" key="SettingsEditor" timestamp="1578998490476">
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1579002742809">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2360" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998490476" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578999275525">
+    <state x="2360" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579002742809" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578999440802">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999275525" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999440802" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578997116189">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
