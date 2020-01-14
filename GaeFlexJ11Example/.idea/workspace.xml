@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c0edec0-18b4-4563-ae7d-21a50905fb71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/appengine/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/dopierala/HomeGaeFlexJ11Example/controllers/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/dopierala/HomeGaeFlexJ11Example/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-cloud-bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/java/pl/dopierala/HomeGaeStdTest/HomeGaeStdTestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/java/pl/dopierala/HomeGaeStdTest/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/java/pl/dopierala/HomeGaeStdTest/controllers/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/java/pl/dopierala/HomeGaeStdTest/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/resources/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/main/webapp/WEB-INF/appengine-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaeStdJ8Example/src/test/java/pl/dopierala/HomeGaeStdTest/HomeGaeStdTestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/dopierala/HomeGaeStdTest/HomeGaeStdTestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/dopierala/HomeGaeStdTest/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/dopierala/HomeGaeStdTest/controllers/DefaultController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/dopierala/HomeGaeStdTest/controllers/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/webapp/WEB-INF/appengine-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/pl/dopierala/HomeGaeStdTest/HomeGaeStdTestApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNZwcUXF2srT0GdaUh0S2T9fIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GoogleCloudSamples/springboot-helloworld-flex" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3275862" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\piotr\IdeaProjects\GoogleCloudHomeTest\GaeFlexJ11Example\src\main\java\pl\dopierala\HomeGaeFlexJ11Example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HomeGaeFlexJ11ExampleApplication">
+    <configuration name="HomeGaeFlexJ11ExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HomeGaeFlexJ11Example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.dopierala.HomeGaeFlexJ11Example.HomeGaeFlexJ11ExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
+      <deployment type="maven-build-source" name="HomeGaeFlexJ11Example" project="spring-test-265007" version="alpha-001-j11flex">
+        <settings cloudProjectName="spring-test-265007" environment="APP_ENGINE_FLEX" googleUsername="ptr.dopierala@gmail.com" moduleName="HomeGaeFlexJ11Example" stagedArtifactName="" userSpecifiedArtifactPath="" version="alpha-001-j11flex" />
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google App Engine Deployment.Google App Engine Deployment" />
+      <item itemvalue="Spring Boot.HomeGaeFlexJ11ExampleApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0edec0-18b4-4563-ae7d-21a50905fb71" name="Default Changelist" comment="" />
+      <created>1578992252774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578992252774</updated>
+      <workItem from="1578992253989" duration="4093000" />
+      <workItem from="1578996563681" duration="2712000" />
+    </task>
+    <task id="LOCAL-00001" summary="Working java 8">
+      <created>1578999273874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578999273874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working java 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working java 8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578994228277">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578994228277" />
+    <state x="2678" y="466" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578993810935">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2678" y="466" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578993810935" />
+    <state x="2359" y="111" key="CommitChangelistDialog2" timestamp="1578999273242">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2359" y="111" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999273242" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1578997467991">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578997467991" />
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom" timestamp="1578998625245">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
+    <state width="1877" height="434" key="GridCell.Tab.0.center" timestamp="1578998625245">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
+    <state width="1877" height="434" key="GridCell.Tab.0.left" timestamp="1578998625245">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
+    <state width="1877" height="434" key="GridCell.Tab.0.right" timestamp="1578998625245">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998625245" />
+    <state width="1877" height="434" key="GridCell.Tab.1.bottom" timestamp="1578998501397">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998501397" />
+    <state width="1877" height="434" key="GridCell.Tab.1.center" timestamp="1578998501397">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998501397" />
+    <state width="1877" height="434" key="GridCell.Tab.1.left" timestamp="1578998501397">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998501397" />
+    <state width="1877" height="434" key="GridCell.Tab.1.right" timestamp="1578998501397">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998501397" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1578998490476">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578998490476" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578999275525">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578999275525" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578997116189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578997116189" />
+  </component>
+</project>
