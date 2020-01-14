@@ -9,8 +9,8 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <maven.compiler.target>11</maven.compiler.target>
-        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
 
@@ -46,7 +46,7 @@
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>appengine-maven-plugin</artifactId>
                 <configuration>
-                    <version>alpha-002-gae-flex</version>
+                    <version>alpha-001-gae-flex</version>
                     <projectId>spring-test-265007</projectId>
                 </configuration>
                 <version>2.2.0</version>

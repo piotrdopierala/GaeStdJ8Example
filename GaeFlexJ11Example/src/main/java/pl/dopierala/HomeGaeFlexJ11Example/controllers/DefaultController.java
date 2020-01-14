@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class DefaultController {
     @GetMapping("/")
     public String defaultPage(){
-        return "HomeGaeExtdTestApplication J11";
+        return "HomeGaeExtdTestApplication J8";
     }
 }
